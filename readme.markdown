@@ -1,6 +1,7 @@
 uiimagerotate
 =============
 
+
 This project contains a category add-on for UIImage that can rotate an image to any 90-degree orientation, with or without left-to-right mirroring. It also includes a couple of UIImage scaling functions and a demo program that lets you see the result of various rotate operations.
 
 All the code is Objective-C, and works only on iOS devices and the simulator. I used Xcode 4.3.3, but you can likely adapt it to any other version.
