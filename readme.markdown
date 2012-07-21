@@ -11,3 +11,5 @@ Once you've built the project, you can rotate the test image to one of four orie
 
 [The test image is from Andy Helms.](http://oktotally.tumblr.com/post/4551286929/lets-rock) If anyone objects to my using that image in this project, let me know, and I'll pick a different one.
 
+[Watch my blog for more technical topics such as this one.](http://www.platinumball.net/blog/)
+
