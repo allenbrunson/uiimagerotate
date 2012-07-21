@@ -1,0 +1,16 @@
+// uiimagerotate prefix header
+
+// ios c frameworks
+#import <CoreFoundation/CoreFoundation.h>
+#import <CoreGraphics/CoreGraphics.h>
+
+// ios objc frameworks
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#endif  // __OBJC__
+
+// local headers
+#ifdef __OBJC__
+#import "TLGraphicsMacros.h"
+#endif  // __OBJC__
