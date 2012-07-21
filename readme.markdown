@@ -5,7 +5,7 @@ This project contains a category add-on for UIImage that can rotate an image to 
 
 All the code is Objective-C, and works only on iOS devices and the simulator. I used Xcode 4.3.3, but you can likely adapt it to any other version.
 
-![screenshot](https://github.com/allenbrunson/uiimagerotate/blob/master/screenshots/screenshot.png)
+![screenshot](http://github.com/allenbrunson/uiimagerotate/blob/master/screenshots/screenshot.png)
 
 [The test image is from Andy Helms.](http://oktotally.tumblr.com/post/4551286929/lets-rock) If anyone objects to my using that image in this project, let me know, and I'll pick a different one.
 
